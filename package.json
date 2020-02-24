@@ -1,0 +1,25 @@
+{
+  "name": "booking_widget_1mdata_proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baby-Jabba/Booking_Widget_1MData_Proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baby-Jabba/Booking_Widget_1MData_Proxy/issues"
+  },
+  "homepage": "https://github.com/Baby-Jabba/Booking_Widget_1MData_Proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "newrelic": "^6.4.1",
+    "nodemon": "^2.0.2"
+  }
+}
