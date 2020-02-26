@@ -11,11 +11,11 @@ scenarios:
       - get:
           url: '/12345678'
       - post:
-          url: '/api/addSite'
+          url: '/12345678/api/addSite'
           form:
             site_name: 'www.dfdfdfd.com'
             logo: 'www.dfdfdfdgdf.com'
             tweak: 0.33
             incentive: 2
       - delete:
-          url: '/api/delete/?id=1213445'
+          url: '/12345678/api/delete/?id=1213445'
